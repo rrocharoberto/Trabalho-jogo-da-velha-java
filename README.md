@@ -1,5 +1,7 @@
 # Trabalho-jogo-da-velha-java
 Trabalho Java - Segundo Semestre - Mateus Pereira Goulart - Univás
+
+
 Neste respositório contém 2 pastas, uma com um algoritmo no java, na outra, temos uma pasta com 3 algoritmos do portugol
 Ambos os arquivos são codigos referentes a um trabalho academico, com foco em desenvolver habilidades com reuso de codigo
 
