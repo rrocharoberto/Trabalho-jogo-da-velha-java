@@ -20,7 +20,7 @@ programa
 		cadeia simboloO = " O"
 		cadeia simboloX = " X"
 	
-		inteiro i = 0;
+		inteiro i = 0
 		logico ganhou = falso
 
 		efetuarJogada(nome1, 0,0,simboloX,tabuleiro)
